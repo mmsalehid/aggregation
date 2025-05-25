@@ -9,7 +9,7 @@
 #define EXCEPTIONS_H_
 
 
-#include <exception>
+#include <stdexcept>
 #include <string>
 
  namespace sym_lib {
